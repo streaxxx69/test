@@ -18,4 +18,4 @@ player_id =
 finish_id =
 
 window.bind('KeyPress', key_handler)
-window.mainloop
+window.mainloop()
