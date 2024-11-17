@@ -1,4 +1,5 @@
 from tkinter import *
+
 w =800
 h =500
 player_size = 100
